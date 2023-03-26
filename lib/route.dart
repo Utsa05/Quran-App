@@ -2,11 +2,10 @@
 
 import 'package:get/get.dart';
 import 'package:the_quran_app/constants/string.dart';
-
-import 'pages/splash/views/splash_view.dart';
+import 'package:the_quran_app/pages/home/views/home_view.dart';
 
 class AppRoute {
   static List<GetPage<dynamic>> routes = [
-    GetPage(name: AppString.initialRoute, page: () => const SplashView())
+    GetPage(name: AppString.initialRoute, page: () => const HomeView())
   ];
 }

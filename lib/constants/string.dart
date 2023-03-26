@@ -49,6 +49,9 @@ class AppString {
   static String quranreadAsset = "assets/icons/quran_read.png";
   static String quranAsset = "assets/icons/quran.png";
   static String kaabaAsset = "assets/icons/kaaba.png";
+  static String mosqueAsset = "assets/images/mosque.png";
+  static String asmalulAsset = "assets/icons/asmalul.png";
+  static String prayAsset = "assets/icons/pray.png";
 
   //margin-padding
 }
