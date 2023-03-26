@@ -2,6 +2,8 @@ class AppString {
   const AppString._();
 
   //core
+  static String appName = "Quran";
+  static String appTitle = "Keep the Quran by your side at all times!";
   static String today = "Today";
   static String prayerTiming = "Prayer Timing";
   static String lastRead = "Last Read";
@@ -32,4 +34,21 @@ class AppString {
   static String asmaulhusnaRoute = "/asmaulhusna";
   static String duaforeverydayRoute = "/duaforeveryday";
   static String siamtimingRoute = "/siamtiming";
+
+  //assets
+  static String backAsset = "assets/icons/back.png";
+  static String tasbihAsset = "assets/icons/tasbih.png";
+  static String bellAsset = "assets/icons/bell.png";
+  static String compassAsset = "assets/icons/compass.png";
+  static String hadathAsset = "assets/icons/hadath.png";
+  static String shapeAsset = "assets/icons/shape.png";
+  static String handAsset = "assets/icons/hand.png";
+  static String locationAsset = "assets/icons/pin.png";
+  static String searchAsset = "assets/icons/search.png";
+  static String siyamtimingAsset = "assets/icons/siyamtiming.png";
+  static String quranreadAsset = "assets/icons/quran_read.png";
+  static String quranAsset = "assets/icons/quran.png";
+  static String kaabaAsset = "assets/icons/kaaba.png";
+
+  //margin-padding
 }
