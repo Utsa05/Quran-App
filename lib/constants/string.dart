@@ -52,6 +52,8 @@ class AppString {
   static String mosqueAsset = "assets/images/mosque.png";
   static String asmalulAsset = "assets/icons/asmalul.png";
   static String prayAsset = "assets/icons/pray.png";
+  static String dotAsset = "assets/icons/dots.png";
+  static String hexagonAsset = "assets/icons/hexagon.png";
 
   //margin-padding
 }
